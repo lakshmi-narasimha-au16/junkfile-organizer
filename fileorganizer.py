@@ -1,5 +1,5 @@
-"""python project for organizing files on a particular directory by file type,
-file size, date modified """
+# python project for organizing files on a particular directory by file type.
+
 # import sys
 import os
 from pathlib import Path
